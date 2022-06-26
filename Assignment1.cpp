@@ -1,5 +1,5 @@
 #include<iostream>
-#include<conio.h>
+
 using namespace std;
 int main()
 {
@@ -23,5 +23,5 @@ int main()
        salary = bs+bs*0.6+bs*0.35+bs*0.25;
    }
    cout<<"Monthly Salary Will Be: " <<salary;
-   getch();
+  return 0;
 }
